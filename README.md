@@ -6,5 +6,11 @@
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
  ----------------------------------------------------------------- 
 
-A repo created to showcase my programming skills using aws-cli, python and linux bash scripting
- 
+A repo created to showcase my programming skills using aws-cli, python and linux bash scripting skills.
+
+# List of Skills 
+- aws-cli
+- python3
+- boto3
+- bash
+- aws iam, aws s3, aws cloudwatch- 
